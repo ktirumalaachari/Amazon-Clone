@@ -42,13 +42,30 @@ cd Amazon-Clone-Project
 - Feel free to explore the codebase.
 - Make modifications or use it as a starting point for your own e-commerce project.
 
-## Connect with Me 🤝
-Let's connect! Find me on
-- Mail: ktirumalaachari@gamail.com
-  
-Find me on social media
-- **Instagram:** (https://www.instagram.com/k_tiru_mala_achari/)
-- **Twitter:** (https://x.com/TiruAchari/)
+- 📫 How to reach me: **ktirumalaachari@gmail.com**
+ 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/k-tirumala-achari-921106307" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      height="30" width="40" />
+  </a>
+
+  <a href="https://www.facebook.com/share/1ZWA17n3Tw/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      height="30" width="40" />
+  </a>
+
+  <a href="https://www.instagram.com/k_tiru_mala_achari?igsh=cmFxeTY2ZDlxZnBv" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      height="30" width="40" />
+  </a>
+
+  <a href="https://www.youtube.com/channel/UCMQHGNrEDGoK7StmUTnB7iw" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+      height="30" width="40" />
+  </a>
+</p>
 
 ## Happy coding!
 
